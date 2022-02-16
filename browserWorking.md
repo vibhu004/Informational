@@ -4,7 +4,7 @@
 
 <br>
 
-![image](../images/browser_working.jpeg)
+![image](https://github.com/vibhu004/Informational/blob/main/images/browser_working.jpeg?raw=true)
 
 ### 1. Bob enters a URL into the browser and hits Enter. In this example, the URL is composed of 4 parts:
 
